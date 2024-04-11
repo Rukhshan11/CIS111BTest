@@ -1,2 +1,3 @@
-# CIS11BTest
- 
+# CIS111BTest
+
+Testing Git and GitHub for CIS 111B
